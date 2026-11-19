@@ -1,6 +1,6 @@
 # Portfolio de Guillaume Saint-Pierre — refonte novembre 2026
 
-Portfolio statique, en anglais, inspiré **dans son architecture éditoriale** du site de Thibault Verny (`thibaultverny.app`) et adapté au parcours de Guillaume : EPFL, DTU, énergie, méthodes numériques et IA appliquée.
+Portfolio statique en anglais
 
 ## Ce que contient la refonte
 
